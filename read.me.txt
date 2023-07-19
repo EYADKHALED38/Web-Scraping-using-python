@@ -1,0 +1,11 @@
+This Python script demonstrates advanced web
+ scraping techniques to extract real estate property
+ data from the Realtor.com website. It uses pagination
+ to scrape multiple pages of search results for a specific
+ location and search criteria and extracts relevant information
+ such as price, address, city, state, zipcode, beds, baths,
+ and square footage. The extracted data is stored in a list
+ of dictionaries and then written to a CSV file for further
+ analysis and manipulation. This powerful tool can be customized
+ to scrape different locations and search parameters and can provide
+ valuable insights for real estate professionals and investors.
